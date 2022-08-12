@@ -1,8 +1,9 @@
-
 h1{
     text-align: center;
+    color: brown;
 }
 body {
+    font-size: 90px;
     text-align: center;
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
